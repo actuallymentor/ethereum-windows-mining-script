@@ -1,4 +1,5 @@
 @echo off
+echo "Always keep a backup of you wallet files in %appdata%\Ethereum\Keystore"
 cd miners
 echo "This script automates the mining process with etherpool.co, it is not affiliated to etherpool"
 echo "The accounts on this computer are:"
