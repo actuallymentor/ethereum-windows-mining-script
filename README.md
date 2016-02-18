@@ -1,0 +1,1 @@
+# ethereum-windows-mining-script
